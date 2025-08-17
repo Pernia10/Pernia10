@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A0F0B,00FF00&height=120&section=header&text=Santiago%20Pernia&fontSize=50" alt="Header Wave" />
-</p>
-
 <h1 align="center">Hi 👾, I'm Santiago Pernia</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+%7C+COBOL,+Python,+SQL+%7C+Cybersecurity+Enthusiast&font=Fira+Code&pause=1000&color=00FF00" alt="Typing SVG" />
