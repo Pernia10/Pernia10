@@ -40,7 +40,11 @@ $ overview --details
 
 ---
 
-
+<pre style="color: #00FF00; background-color: #0A0F0B; padding: 15px; font-family: 'Courier New', monospace; border: 1px solid #00FF00; border-radius: 5px;">
+$ cat ~/about.txt
+<picture><img src="https://media.giphy.com/media/3o7TKTDnH2kO4N3n92/giphy.gif" width="50px" style="vertical-align: middle;"></picture>
+Desarrollador apasionado por los sistemas legados, la seguridad informática y el backend moderno. Mi objetivo es aplicar mis conocimientos en el sector financiero.
+</pre>
 
 ---
 
