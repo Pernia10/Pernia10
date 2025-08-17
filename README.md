@@ -24,7 +24,7 @@ Desarrollador apasionado por los sistemas legados, la seguridad informática y e
   <img src="https://img.shields.io/badge/Nmap-FF9800?logo=nmap&style=plastic&color=00FF00" alt="Nmap" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&style=plastic&color=00FF00" alt="Linux" />
 </p>
-<p align="center" style="color: #00FF00;">🔓 Cybersecurity & Linux Expertise</p>
+<p align="center" style="color: #00FF00;">🔓 Cybersecurity & Linux </p>
 
 ---
 
@@ -32,7 +32,7 @@ Desarrollador apasionado por los sistemas legados, la seguridad informática y e
 <pre style="color: #00FF00; background-color: #0A0F0B; padding: 15px; font-family: 'Courier New', monospace; border: 1px solid #00FF00; border-radius: 5px;">
 $ overview --details
 - Languages: 🐍 Python • COBOL • SQL
-- Development: ⚙ Backend • Legacy Systems
+- Development: ⚙ Backend • Legacy Systems • Ibm I
 - Cybersecurity: 🔐 InfoSec • Vulnerability Analysis
 - Tools: Git • Metasploit • Nmap • Linux
 - Goal: Apply skills in financial sector
