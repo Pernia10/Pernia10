@@ -15,7 +15,7 @@ Desarrollador apasionado por los sistemas legados, la seguridad informática y e
 
 ## 🛠️ Tecnologías
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cobol,python,sql,git,ibm&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=cobol,sql,ibm,python,git&theme=dark&perline=5" />
 </p>
 <p align="center">🔐 Ciberseguridad: Seguridad informática, Análisis de vulnerabilidades</p>
 
