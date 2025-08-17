@@ -17,7 +17,7 @@ Desarrollador apasionado por los sistemas legados, la seguridad informática y e
 ## $ tech_stack
 <p align="center">
   <img src="https://img.shields.io/badge/COBOL-00599C?logo=cobol&style=plastic&color=00FF00" alt="COBOL" />
-  <img src="https://img.shields.io/badge/COBOL-00599C?logo=cobol&style=plastic&color=00FF00" alt="IBM I" />
+  <img src="https://img.shields.io/badge/COBOL-00599C?logo=ibm i&style=plastic&color=00FF00" alt="IBM I" />
   <img src="https://img.shields.io/badge/SQL-005C84?logo=postgresql&style=plastic&color=00FF00" alt="SQL" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=plastic&color=00FF00" alt="Python" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&style=plastic&color=00FF00" alt="Git" />
