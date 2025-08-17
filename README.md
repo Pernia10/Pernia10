@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Santiago Pernia</h1>
 <p align="center">
-  <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome" width="300" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+%7C+COBOL,+Python,+SQL+%7C+Cybersecurity+Enthusiast&font=Fira+Code&pause=1000" alt="Typing SVG" />
 </p>
-
----
-
 ## ​ About Me
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+%7C+COBOL,+Python,+SQL+%7C+Cybersecurity+Enthusiast&font=Fira+Code&pause=1000" alt="Typing SVG" />
 </p>
-
 Desarrollador apasionado por los sistemas legados, la seguridad informática y el backend moderno. Mi objetivo es aplicar mis conocimientos en el sector financiero.
 
 ---
