@@ -1,39 +1,39 @@
-<h1 align="center">👨‍💻 Santiago Pernia</h1>
-<p align="center">Desarrollador Backend | COBOL, Python, SQL | Ciberseguridad y Finanzas</p>
-
+<h1 align="center">Hi 👋, I'm Santiago Pernia</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Explora%20mis%20proyectos-1E1E1E?style=flat-square&logo=github" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+%7C+COBOL,+Python,+SQL+%7C+Cybersecurity+Enthusiast&font=Fira+Code&pause=1000" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 Sobre mí
-Soy un desarrollador backend apasionado por sistemas legados y soluciones seguras para el sector financiero. Experiencia en COBOL, Python y SQL, con interés en ciberseguridad y DevOps. Busco crear impacto a través de código eficiente y robusto.
+## About Me
+<picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture>
+Desarrollador apasionado por los sistemas legados, la seguridad informática y el backend moderno. Mi objetivo es aplicar mis conocimientos en el sector financiero.
 
 ---
 
 ## 🛠️ Tecnologías
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,cobol,git,github,html,docker,flask&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=cobol,python,sql,ibm,git,github&theme=dark&perline=3" />
 </p>
+<p align="center">Ciberseguridad: Seguridad informática, Análisis de vulnerabilidades</p>
 
 ---
 
 ## 📊 Habilidades
 | Categoría          | Detalles                                    | Nivel           |
 |--------------------|---------------------------------------------|-----------------|
-| **Lenguajes**      | Python, COBOL, SQL                          | Intermedio-Avanzado |
-| **Desarrollo**     | Backend, Sistemas legados, DevOps           | Intermedio      |
+| **Lenguajes**      | COBOL, Python, SQL                          | Intermedio-Avanzado |
+| **Plataformas**    | IBM i (AS/400)                              | Intermedio      |
 | **Ciberseguridad** | Seguridad informática, Análisis de riesgos  | Principiante    |
-| **Herramientas**   | Git, GitHub, VS Code, AS/400                | Avanzado        |
+| **Herramientas**   | Git, GitHub, VS Code                        | Avanzado        |
 
 ---
 
 ## ⭐ Proyectos destacados
 - **[Proyecto 1: Sistema Bancario en COBOL]**  
-  Desarrollé un módulo de transacciones para sistemas financieros legados.  
+  Módulo de transacciones para sistemas financieros legados en IBM i.  
   🔗 [Enlace al repositorio]  
-- **[Proyecto 2: API REST con Flask]**  
+- **[Proyecto 2: API REST con Python]**  
   API para gestión de datos financieros con autenticación segura.  
   🔗 [Enlace al repositorio]
 
@@ -60,7 +60,7 @@ Soy un desarrollador backend apasionado por sistemas legados y soluciones segura
   </a>
 </p>
 
-<p align="center">💡 ¡Estoy abierto a colaboraciones y nuevas oportunidades en el sector financiero!</p>
+<p align="center">💡 ¡Abierto a colaboraciones y oportunidades en el sector financiero!</p>
 
 
 
