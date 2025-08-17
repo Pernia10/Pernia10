@@ -15,9 +15,11 @@ Desarrollador apasionado por los sistemas legados, la seguridad informática y e
 
 ## 🛠️ Tecnologías
 <p align="center">
-  <img src="https://img.shields.io/badge/COBOL-1E1E1E?logo=cobol&logoColor=00599C&style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL-005C84?logo=postgresql&logoColor=white&style=flat-square" />
-  <img src="https://skillicons.dev/icons?i=ibm,python,git&theme=dark&perline=3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cobol/cobol-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ibm/ibm-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
 </p>
 <p align="center">🔐 Ciberseguridad: Seguridad informática, Análisis de vulnerabilidades</p>
 
