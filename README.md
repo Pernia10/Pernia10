@@ -1,50 +1,66 @@
-<h1 align="center">Hi 👋, I'm Santiago Pernia</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+%7C+COBOL,+Python,+SQL+%7C+Cybersecurity+Enthusiast&font=Fira+Code&pause=1000" alt="Typing SVG" />
-</p>
-## ​ About Me
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
-Desarrollador apasionado por los sistemas legados, la seguridad informática y el backend moderno. Mi objetivo es aplicar mis conocimientos en el sector financiero.
+<h1 align="center">👨‍💻 Santiago Pernia</h1>
+<p align="center">Desarrollador Backend | COBOL, Python, SQL | Ciberseguridad y Finanzas</p>
 
----
-
-##  My Tech Stack
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sql,git,github,html&theme=light&perline=5" alt="My Tech Stack"/>
-  </a>
+  <img src="https://img.shields.io/badge/-Explora%20mis%20proyectos-1E1E1E?style=flat-square&logo=github" />
 </p>
 
 ---
 
-##  Quick Overview
-
-|  Concepto              |  Detalles                                       |
-|------------------------|--------------------------------------------------|
-| **Lenguajes**          | 🐍 Python • COBOL • SQL                          |
-| **Desarrollo**         | ⚙ Backend • DevOps • Sistemas legados           |
-| **Ciberseguridad**     | 🔐 Seguridad informática • Análisis de vulnerabilidades |
-| **Herramientas / IDE** |  Git • GitHub • VS Code • AS/400 (COBOL)        |
-| **Objetivo profesional** |  Aplicar mis habilidades en el sector financiero |
+## 🚀 Sobre mí
+Soy un desarrollador backend apasionado por sistemas legados y soluciones seguras para el sector financiero. Experiencia en COBOL, Python y SQL, con interés en ciberseguridad y DevOps. Busco crear impacto a través de código eficiente y robusto.
 
 ---
 
-##  GitHub Stats & Trophies
+## 🛠️ Tecnologías
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoPernia&show_icons=true&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SantiagoPernia&theme=dark" alt="Trophy" />
+  <img src="https://skillicons.dev/icons?i=python,sql,cobol,git,github,html,docker,flask&theme=dark&perline=4" />
 </p>
 
 ---
 
-##  Let’s Connect
+## 📊 Habilidades
+| Categoría          | Detalles                                    | Nivel           |
+|--------------------|---------------------------------------------|-----------------|
+| **Lenguajes**      | Python, COBOL, SQL                          | Intermedio-Avanzado |
+| **Desarrollo**     | Backend, Sistemas legados, DevOps           | Intermedio      |
+| **Ciberseguridad** | Seguridad informática, Análisis de riesgos  | Principiante    |
+| **Herramientas**   | Git, GitHub, VS Code, AS/400                | Avanzado        |
+
+---
+
+## ⭐ Proyectos destacados
+- **[Proyecto 1: Sistema Bancario en COBOL]**  
+  Desarrollé un módulo de transacciones para sistemas financieros legados.  
+  🔗 [Enlace al repositorio]  
+- **[Proyecto 2: API REST con Flask]**  
+  API para gestión de datos financieros con autenticación segura.  
+  🔗 [Enlace al repositorio]
+
+---
+
+## 📈 Estadísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoPernia&show_icons=true&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoPernia&theme=dracula&hide_border=true" />
+</p>
+
+---
+
+## 📬 Conéctate conmigo
 <p align="center">
   <a href="https://www.linkedin.com/in/santiago-pernia/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=flat-square" />
+  </a>
+  <a href="mailto:tu.email@dominio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat-square" />
+  </a>
+  <a href="https://x.com/tu_usuario" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?logo=x&style=flat-square" />
   </a>
 </p>
+
+<p align="center">💡 ¡Estoy abierto a colaboraciones y nuevas oportunidades en el sector financiero!</p>
 
 
 
