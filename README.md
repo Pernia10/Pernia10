@@ -48,12 +48,6 @@ $ overview --details
 
 ---
 
-## $ connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/santiago-pernia/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00FF00?logo=linkedin&style=flat-square&color=00FF00" alt="LinkedIn" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0A0F0B,00FF00&height=100&section=footer" alt="Footer Wave" />
