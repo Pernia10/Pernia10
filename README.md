@@ -6,26 +6,32 @@
 ---
 
 ## About Me
-<picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture>
+<p align="center">
+  <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture>
+</p>
 Desarrollador apasionado por los sistemas legados, la seguridad informática y el backend moderno. Mi objetivo es aplicar mis conocimientos en el sector financiero.
 
 ---
 
 ## 🛠️ Tecnologías
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cobol,python,sql,ibm,git,github&theme=dark&perline=3" />
+  <img src="https://skillicons.dev/icons?i=cobol,python,sql,git,ibm&theme=dark&perline=5" />
 </p>
-<p align="center">Ciberseguridad: Seguridad informática, Análisis de vulnerabilidades</p>
+<p align="center">🔐 Ciberseguridad: Seguridad informática, Análisis de vulnerabilidades</p>
 
 ---
 
 ## 📊 Habilidades
-| Categoría          | Detalles                                    | Nivel           |
-|--------------------|---------------------------------------------|-----------------|
-| **Lenguajes**      | COBOL, Python, SQL                          | Intermedio-Avanzado |
-| **Plataformas**    | IBM i (AS/400)                              | Intermedio      |
-| **Ciberseguridad** | Seguridad informática, Análisis de riesgos  | Principiante    |
-| **Herramientas**   | Git, GitHub, VS Code                        | Avanzado        |
+<p align="center">
+
+| 🖥️ Categoría          | Detalles                                    |
+|-----------------------|---------------------------------------------|
+| 🐍 **Lenguajes**      | COBOL, Python, SQL                          |
+| 💾 **Plataformas**    | IBM i (AS/400)                              |
+| 🔒 **Ciberseguridad** | Seguridad informática, Análisis de riesgos  |
+| 🛠️ **Herramientas**   | Git, GitHub, VS Code                        |
+
+</p>
 
 ---
 
