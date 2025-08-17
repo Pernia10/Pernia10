@@ -13,8 +13,11 @@
   <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture>
 </p>
 <pre style="color: #00FF00; background-color: black; padding: 10px; font-family: monospace;">
+$ whoami
+Santiago Pernia
+$ cat bio.txt
 Desarrollador apasionado por los sistemas legados, la seguridad informática y el backend moderno. 
-Mi objetivo es aplicar mis conocimientos en el sector financiero, hackeando soluciones seguras.
+Mi objetivo es aplicar mis conocimientos en el sector financiero, hackeando soluciones seguras y eficientes.
 </pre>
 <p align="center">
   <img src="https://media.giphy.com/media/13UZisxCxkjPwI/giphy.gif" width="200" alt="Hacker Typing" />
@@ -24,50 +27,51 @@ Mi objetivo es aplicar mis conocimientos en el sector financiero, hackeando solu
 
 ## 🛠️ Tecnologías
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cobol/cobol-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ibm/ibm-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cobol/cobol-original.svg" width="40" height="40" alt="COBOL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="SQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Metasploit_logo_and_wordmark.svg" width="80" height="40" alt="Metasploit" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Antu_nmap_icon.svg" width="40" height="40" alt="Nmap" />
 </p>
 <p align="center" style="color: #00FF00;">🔐 Ciberseguridad: Seguridad informática, Análisis de vulnerabilidades</p>
-<p align="center">
-  <img src="https://github.com/fdmomtaz/FancyHackerTerminal/raw/main/demo.gif" width="300" alt="Hacker Terminal Demo" />
-</p>
-
----
-
-## 📊 Habilidades
-<p align="center" style="background-color: black; padding: 10px; border: 1px solid #00FF00;">
-
-| 🔒 Categoría          | Detalles                                    |
-|-----------------------|---------------------------------------------|
-| 🐍 **Lenguajes**      | COBOL, SQL, Python                          |
-| 💾 **Plataformas**    | IBM i (AS/400)                              |
-| 🔐 **Ciberseguridad** | Seguridad informática, Análisis de riesgos  |
-| 🛠️ **Herramientas**   | Git, GitHub, VS Code                        |
-
-</p>
-
----
-
-## ⭐ Proyectos destacados
-- **[Proyecto 1: Sistema Bancario en COBOL]**  
-  Módulo de transacciones para sistemas financieros legados en IBM i.  
-  🔗 [Enlace al repositorio]  
-- **[Proyecto 2: API REST con Python]**  
-  API para gestión de datos financieros con autenticación segura.  
-  🔗 [Enlace al repositorio]
 <p align="center">
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="200" alt="Code Hacking" />
 </p>
 
 ---
 
+## 📊 Habilidades
+<pre style="color: #00FF00; background-color: black; padding: 10px; font-family: monospace;">
+$ skills --list
+Lenguajes: COBOL, SQL, Python
+Ciberseguridad: Seguridad informática, Análisis de riesgos, Metasploit, Nmap
+Herramientas: Git, GitHub, VS Code
+</pre>
+
+---
+
+## ⭐ Proyectos destacados
+<pre style="color: #00FF00; background-color: black; padding: 10px; font-family: monospace;">
+$ ls projects/
+Proyecto 1: Sistema Bancario en COBOL
+  Descripción: Módulo de transacciones para sistemas financieros legados.
+  🔗 [Enlace al repositorio]
+
+Proyecto 2: API REST con Python
+  Descripción: API para gestión de datos financieros con autenticación segura.
+  🔗 [Enlace al repositorio]
+</pre>
+
+---
+
 ## 📈 Estadísticas
 <p align="center">
-  <img src="https://raw.githubusercontent.com/drakeaxelrod/terminal-for-github-profile-readme/main/themes/hacker.svg" alt="Hacker Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoPernia&theme=hacker&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoPernia&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoPernia&theme=dracula&hide_border=true" alt="Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github.com/SantiagoPernia/SantiagoPernia/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution" />
 </p>
 
 ---
