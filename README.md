@@ -40,11 +40,7 @@ $ overview --details
 
 ---
 
-## $ git_stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoPernia&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantiagoPernia&theme=dracula&hide_border=true" alt="Streak Stats" />
-</p>
+
 
 ---
 
