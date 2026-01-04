@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👾, I'm Santiago Pernia</h1>
+<h1 align="center">Hi 👾, I'm Santiago Pernia Piamba</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+%7C+COBOL,+Python,+SQL+%7C+Cybersecurity+Enthusiast&font=Fira+Code&pause=1000&color=00FF00" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+%7C+COBOL,+Python,+SQL+%7C+IBMI-I&font=Fira+Code&pause=1000&color=00FF00&width=750&center=true" alt="Typing SVG centered" />
 </p>
-
----
 
 ## $ about_me
 <pre style="color: #00FF00; background-color: #0A0F0B; padding: 15px; font-family: 'Courier New', monospace; border: 1px solid #00FF00; border-radius: 5px;">
@@ -20,8 +18,6 @@ Desarrollador apasionado por los sistemas legados, la seguridad informática y e
   <img src="https://img.shields.io/badge/SQL-005C84?logo=postgresql&style=plastic&color=00FF00" alt="SQL" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=plastic&color=00FF00" alt="Python" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&style=plastic&color=00FF00" alt="Git" />
-  <img src="https://img.shields.io/badge/Metasploit-FF5722?logo=metasploit&style=plastic&color=00FF00" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Nmap-FF9800?logo=nmap&style=plastic&color=00FF00" alt="Nmap" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&style=plastic&color=00FF00" alt="Linux" />
 </p>
 <p align="center" style="color: #00FF00;">🔓 Cybersecurity & Linux </p>
@@ -34,7 +30,7 @@ $ overview --details
 - Languages: 🐍 Python • COBOL • SQL
 - Development: ⚙ Backend • Legacy Systems • Ibm I
 - Cybersecurity: 🔐 InfoSec • Vulnerability Analysis
-- Tools: Git • Metasploit • Nmap • Linux
+- Tools: Git • Linux
 - Goal: Apply skills in financial sector
 </pre>
 
