@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👾, I'm Santiago Pernia Piamba</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+%7C+COBOL,+Python,+SQL+%7C+IBMI-I&font=Fira+Code&pause=1000&color=00FF00&width=750&center=true" alt="Typing SVG centered" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+%7C+COBOL,+Python,+SQL+%7C+IBM-i&font=Fira+Code&pause=1000&color=00FF00&width=750&center=true" alt="Typing SVG centered" />
 </p>
 
 ## $ about_me
